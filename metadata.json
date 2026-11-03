@@ -1,0 +1,7 @@
+{
+  "name": "Safari Grill & Lounge",
+  "description": "RestoERP front end for Safari Grill & Lounge with Customer, Waiter, Cashier, and Manager workflows on a shared order store.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
